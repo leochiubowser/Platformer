@@ -131,6 +131,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD:Platformer/Assets/Scenes/Level-1.unity
   - component: {fileID: 1053676305}
   - component: {fileID: 1053676304}
@@ -222,6 +223,11 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
 >>>>>>> parent of 920a7ec (Add Player):Platformer/Assets/Scenes/SampleScene.unity
+=======
+  - component: {fileID: 519420032}
+  - component: {fileID: 519420031}
+  - component: {fileID: 519420029}
+>>>>>>> parent of 920a7ec (Add Player)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
